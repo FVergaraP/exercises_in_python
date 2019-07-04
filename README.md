@@ -11,3 +11,12 @@ La idea de este proyecto es mostrar diferentes ejercicios de programacion (Algor
 Cada solucion no es la forma correcta y definitiva, es la forma que yo encontre para resolverlo. Feliz si alguien encuentra otra mejor forma de resolver un problema y la presenta.
 
 Por otro lado, para mi, esta es una forma de practicar mi ingles. Por esto, me disculpo ante cualquier error gramatical. Y de la misma forma, toda correccion es bienvenida. 
+
+##Exercises
+#####N° 953
+
+Write a function with a text like input and for each character in the text, return the longer string where is that character.
+
+//
+
+ Escribir una función que reciba un texto y para cada caracter presente en el texto devuelva la cadena más larga en la que se encuentra ese caracter.
